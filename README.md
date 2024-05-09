@@ -1,2 +1,2 @@
-# ESO_jax_python_coffee
+# `JAX` python coffee 
 A 20min introduction to JAX
